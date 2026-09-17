@@ -175,7 +175,7 @@ export default function Navbar() {
               (e.currentTarget as HTMLElement).style.transform = 'translateY(0)';
             }}
           >
-            CV
+            Resume download
           </a>
           {/* Hamburger */}
           <button
