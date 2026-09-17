@@ -150,7 +150,7 @@ export default function Navbar() {
             href="/Abdul-Hadi-Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Open resume"
+            aria-label="Open CV"
             style={{
               padding: '8px 20px',
               borderRadius: 8,
@@ -175,7 +175,7 @@ export default function Navbar() {
               (e.currentTarget as HTMLElement).style.transform = 'translateY(0)';
             }}
           >
-            Resume download
+            CV
           </a>
           {/* Hamburger */}
           <button
